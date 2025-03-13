@@ -1,28 +1,85 @@
-<h1 align="center">Привіт 👋, мене звати Аліна</h1>
-<h3 align="center">Я молодший аналітик даних із пристрастю до SQL і візуалізації даних. Мені подобається досліджувати дані та відкривати ідеї</h3>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+<h1 align="center">Hello, everyone 👋</h1>
+I'm Alina, a junior data analyst 👨‍💻 with a passion for SQL and data visualization. I love exploring data and uncovering insights 🚀
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alina-maistrenko&label=Profile%20views&color=0e75b6&style=flat" alt="alina-maistrenko" /> </p>
+- 🔭 I’m currently working on «Business Performance Dashboard»  
+  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alina-maistrenko" alt="alina-maistrenko" /></a> </p>
+- 🌱 I’m currently learning SQl, Tableau, Python  
+  
 
-- 🔭 Зараз я працюю над **Інформаційною панеллю ефективності бізнесу**
+- 📫 Connect with me **alinaslipuk@gmail.com**  
+  
 
-- 👨‍💻 Усі мої проекти доступні на [https://www.linkedin.com/in/alinamaistrenko/](https://www.linkedin.com/in/alinamaistrenko/)
+- ⚡ Fun fact: I'm a big fan of board games  
+  
 
-- 📫 Як зі мною зв'язатися **alinaslipuk@gmail.com**
+<br/>  
 
-- 📄 Дізнайтеся про мій досвід [https://drive.google.com/file/d/1CuWWzw1HMcUeiseQmoDct-VggESOjdZe/view?usp=sharing](https://drive.google.com/file/d/1CuWWzw1HMcUeiseQmoDct-VggESOjdZe/view?usp=sharing)
 
-<h3 align="left">Підключитися до я:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alinamaistrenko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alinamaistrenko/" height="30" width="40" /></a>
-</p>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-<h3 align="left">Мови та інструменти:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alina-maistrenko&show_icons=true&locale=en&layout=compact" alt="alina-maistrenko" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alina-maistrenko&show_icons=true&locale=en" alt="alina-maistrenko" /></p>
+</td><td valign="top" width="33%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alina-maistrenko&" alt="alina-maistrenko" /></p>
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alinamaistrenko/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alina-maistrenko&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
